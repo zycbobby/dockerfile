@@ -1,0 +1,1 @@
+gosu postgres bash -c postgres -d=im -c=CREATE DATABASE im;

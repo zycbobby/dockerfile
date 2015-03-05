@@ -1,1 +1,2 @@
-gosu postgres bash -c postgres -d=im -c=CREATE DATABASE im;
+PGPASSWORD=123456 psql -p 35432 -h localhost -U postgres -c "create database im;"
+

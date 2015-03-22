@@ -1,3 +1,8 @@
+This project is inherited for [Noodejs-Sample](https://github.com/jmhdez/Nodejs-Sample)
+
+I want to use git clone, but he submit the node_modules to the repo... so I just copy it. If something is wrong please tell me.
+
+
 This is just a sample app to play with:
 
 * [node.js](http://nodejs.org)
